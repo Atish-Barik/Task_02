@@ -354,7 +354,7 @@ pip install pandas numpy matplotlib seaborn plotly jupyter nbformat ipython
 
 ## 👤 Author
 
-**Your Name**  
+
 Atish Barik 
 
 AI & ML Internship — Elevate Labs | Task 2 | 
